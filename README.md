@@ -1,5 +1,5 @@
 # Bike-Sales-Dashboard-Excel-Project
-In this project Customer data of a bike company, is Analysed and Excel interactive Dashboard is made from valuable insides.
+In this project Customer data of a bike company, is Analyzed and Excel interactive Dashboard is made from valuable insides.
 
 
 ## Steps
